@@ -6,7 +6,7 @@ This contains the ready made bot code for your bot
   Copy the API token in the python program 
   Edit your /credits details
 # Modules Needed
-   pyTelegramBotAPI
+   pyTelegramBotAPI 
 # Steps to install the module
    pip install pyTelegramBotAPI
 # info
