@@ -4,7 +4,7 @@ This contains the ready made bot code for your bot
   First create a bot with BotFather bot from Telegram 
   Next,generate an API token for your bot 
   Copy the API token in the python program   
-  Edit your /credits details
+  Edit your /credits details 
 # Modules Needed
    pyTelegramBotAPI  
 # Steps to install the module
