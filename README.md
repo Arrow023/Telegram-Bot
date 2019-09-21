@@ -8,7 +8,7 @@ This contains the ready made bot code for your bot
 # Modules Needed
    pyTelegramBotAPI   
 # Steps to install the module
-   pip install pyTelegramBotAPI
+   pip install pyTelegramBotAPI 
 # info 
   This bot has functionality to search for the TV series and anime series.
   It gives the download link of the search result directly.
