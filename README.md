@@ -11,7 +11,7 @@ This contains the ready made bot code for your bot
    pip install pyTelegramBotAPI 
 # info 
   This bot has functionality to search for the TV series and anime series.
-  It gives the download link of the search result directly.
+  It gives the download link of the search result directly. 
   
  
  
