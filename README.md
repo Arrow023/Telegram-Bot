@@ -1,5 +1,5 @@
 # Telegram-Bot      
-This contains the ready made bot code for your bot  
+This contains the ready made bot code for your bot   
 # Procedure  
   First create a bot with BotFather bot from Telegram  
   Next,generate an API token for your bot  
